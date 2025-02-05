@@ -4,9 +4,8 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
-
-Student ID: USTH-ID.
+Student Name: Cao Thai Ha
+Student ID: 22BI13136.
 
 ===
 
